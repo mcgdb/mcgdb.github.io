@@ -24,13 +24,13 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: Logo.png
+author: BubblesTech
+author_bio: Hi, Lets go for a ride :D
+author_email: "dale@bubblestech.com"
+author_location: USA
+author_website_url: "https://bubblestech.com"
+typewrite-text: We help you get your product design off the paper and into the factory
 
 # Experiences
 author_work_experiences:
