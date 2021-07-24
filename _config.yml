@@ -16,8 +16,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+      #    - text: Shop
+      #url : /shop
     - text: Contact
       url : /contact
 
@@ -26,14 +26,14 @@ urls:
 
 author_logo: Logo.png
 author: BubblesTech
-author_bio: Hi, Lets go for a ride :D
-author_email: "dale@bubblestech.com"
+author_bio: Sometimes you should call the army...But sometimes, you gotta call Rambo...
+author_email: "info@bubblestech.com"
 author_location: USA
 author_website_url: "https://bubblestech.com"
 typewrite-text: We help you get your product design off the paper and into the factory!
 
 # Experiences
-author_work_experiences:
+author_clients:
             - company_name: Silver Linings
               company_logo: projects/silverlinings.png
               designation: Hardware and Firmware Lead
@@ -71,30 +71,30 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: false
+              - college_logo: umaine.png
+                college_name: UMaine
+                college_url: https://ece.umaine.edu
+                college_degree: Mathematics, Computer & Electrical Engineering
+                description: Bachelors of Science
+                visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: projects/hydra.png
+                project_title: Hydra Personal Watercraft Controller
+                project_description: A 3500W capable Electric Water Propulsion Solution for Personal Watercraft
+                #project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: projects/Lights.png
+                project_title: Ill-Luminator Lights
+                project_description: A 600W Platform for Automating Contained Horniculture Grow Applications
+                #project_url: https://hack4r.com
                 visibility: true
 
 # social links
 twitter_username: mc_gdb
 github_username:  mcgdb
-linkedin_username: dale6998
+linkedin_username: dale-goodman-7649274
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -102,14 +102,15 @@ linkedin_username: dale6998
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
-getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+#getform_endpoint:
+formspree_endpoint: xgerlbga
+formspree_email: info@bubblestech.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
